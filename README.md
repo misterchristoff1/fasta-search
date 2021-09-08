@@ -14,7 +14,7 @@ is - INTERRUPTION SEARCH
      interruptions of greater than three bases, in this instance -v should 
      always be used for clarity. 
 
-     Usage: $ python3 fasta-search.py is <input_file> <preceding_bases> 
+Usage: $ python3 fasta-search.py is <input_file> <preceding_bases> 
 	        <following_bases> 
             
             optional: <minimum counts to display (default=1)> 
